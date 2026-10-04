@@ -1,0 +1,6 @@
+{
+  "name": "Weather Wonderland — Elementary English Game Hub",
+  "description": "Interactive elementary English teaching assistant and classroom game suite (Flashcards, Bingo, Sentence Puzzle, 2-Player PK) for weather vocabulary and 'What's the weather like? It's...' dialogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
